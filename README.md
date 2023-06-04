@@ -1,5 +1,7 @@
 # detectron
 
+Books and Resources: Hands-On Computer Vision with Detectron2 
+
 Detectron is a state-of-the-art open-source software library developed by Facebook AI Research (FAIR) for object detection and instance segmentation tasks. It provides a flexible and modular framework built on top of the PyTorch deep learning library.
 
 With Detectron, you can easily train, evaluate, and deploy deep learning models for object detection and instance segmentation. It includes implementations of popular algorithms such as Faster R-CNN, Mask R-CNN, and RetinaNet, which have achieved top performance on benchmark datasets like COCO (Common Objects in Context) and Pascal VOC.
