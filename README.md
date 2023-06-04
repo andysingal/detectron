@@ -12,5 +12,5 @@ Whether you are a researcher, practitioner, or developer working on computer vis
 
 By integrating Detectron into your project, you can leverage its capabilities to build and deploy accurate and efficient object detection and instance segmentation models for a wide range of applications.
 
-
-Feel free to customize this summary based on your specific usage and objectives.
+<hr>
+Note: Kaggle contains datasets for data science and machine learning in general, including computer vision datasets. However, if you still cannot find a dataset for your custom needs, you may be interested in exploring Roboflow Universe available at https://universe.roboflow.com. It claims to be the world’s most extensive collection of open source computer vision datasets and APIs.
